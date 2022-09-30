@@ -1,4 +1,4 @@
-module test2
+module github.com/a3sroot/test2
 
 go 1.18
 
