@@ -1,4 +1,4 @@
-package test2
+package afsdfa
 
 import "github.com/a3sroot/test"
 
