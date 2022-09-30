@@ -1,4 +1,4 @@
-module github.com/a3sroot/test2
+module github.com/a3sroot/afsdfa
 
 go 1.18
 
